@@ -70,7 +70,7 @@ curl_close($ch);
 </body>
 <style>
   :root{
-    color-scheme: light dark;
+    color-scheme: dark;
   }
 
   .body{
